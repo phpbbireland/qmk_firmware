@@ -1,0 +1,11 @@
+in /media/Dev2/qmk_web_stack
+
+docker-compose up
+
+
+https://github.com/qmk/qmk_web_stack
+
+
+Commands to build and flask with bluepill in dfu mode...
+make ayla:via
+./flash.sh ayla_via.bin
