@@ -3,8 +3,16 @@
 ![ayla_411](imgur.com image replace me!)
 
 *A short description of the keyboard/project*
+This section (ayla_411) contains details relating to the 1st prototype PCB and QMK/VIA code. 
 
-* Keyboard Maintainer: [Mike](https://github.com/phpbbireland)
++ Designed a prototype PCB using an STM32 411 Blackpill for testing... ***complete***
++ Test prototype PCB and initial keyboard code... ***complete, 100% working***
++ Write and test RGB code... ***in progress***
++ I will proceed to a fully assembled PCB using the STM32F072CBT6 and associated components.
+
+The keyboard code was simple enough but RGB code looks a little more involved...
+
+* Keyboard Maintainer: [phpbbireland](https://github.com/phpbbireland)
 * Hardware Supported: *The PCBs, controllers supported*
 * Hardware Availability: *Links to where you can find this hardware*
 
